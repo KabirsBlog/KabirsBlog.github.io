@@ -11,7 +11,7 @@ This project was part of my final quest in Copmuter Programming, and it reflects
 ## About My Project
 
 **Project Title:** *Blackjack*   
-**One-line pitch:** A user friendly game of blackjack with none of the troubles of losing and all of the thrill of winning.
+**One-line pitch:** Simulating a game of blackjack with none of the troubles of losing money but still the thrill of winning.
 
 > Curious about what I’d do differently or recommend to others? Read my final thoughts here: [Final Tip & Takeaways](_posts/2025-05-21-tip.md)
 
