@@ -15,7 +15,7 @@ This project was part of my final quest in Copmuter Programming, and it reflects
 
 > Curious about what I’d do differently or recommend to others? Read my final thoughts here: [Final Tip & Takeaways](_posts/2025-05-21-tip.md)
 
-🛠️ [Source Code (GitHub)](README.md)  
+🛠️ [Source Code (GitHub)](files/README.md)  
 
 ## Dev Log
 
